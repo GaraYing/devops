@@ -23,7 +23,6 @@
 ### k8s
 -----------------
 - node and pod
-  
   - Master node && Worker node
   - pod
     - Smallest set of k8s
@@ -44,4 +43,10 @@
   - volume
     - local
     - remote
-    - k8s doesn‘t management data persistence 
+    - k8s doesn‘t management data persistence
+  
+![img_1.png](img_1.png)
+
+![img_2.png](img_2.png)
+
+![img_3.png](img_3.png)
